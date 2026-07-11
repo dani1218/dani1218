@@ -32,6 +32,11 @@ Email Me 👉 ✉️ **dk6662805@gmail.com** For Collaboration/Project or Anythi
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dani1218&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-bg=true&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
