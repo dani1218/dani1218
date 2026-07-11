@@ -3,11 +3,11 @@
 
 Email Me 👉 ✉️ **dk6662805@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 🔭 **I’m currently working on:** RAG base LLM Model
+- 🌱 **I’m currently learning:** Deep Learning architectures and optimization
+- 👯 **I’m looking to collaborate on:** Open-source AI projects, Full-Stack applications, and Next-Gen Web systems
+- 🤔 **I’m looking for help with:** Advanced neural network scaling and complex vector space math models
+- 💬 **Ask me about:** AI Engineering, Kotlin development, React web applications, and technical networking protocols
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Mr. Daniyal
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
